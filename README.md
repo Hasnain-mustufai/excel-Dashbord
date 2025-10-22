@@ -4,7 +4,7 @@ Analyse Excel automatisée à partir d’un dataset Kaggle. Nettoyage, synthèse
  ## 🔄 Navigation entre feuilles
 Ce fichier Excel contient des boutons interactifs à gauche de chaque feuille permettant une navigation rapide entre les onglets. Fonctionne uniquement dans Excel Desktop
 
-⚠️ Les boutons ne sont pas actifs dans la prévisualisation GitHub. Veuillez télécharger le fichier et l’ouvrir dans Excel pour les utiliser pleinement.
+Les boutons ne sont pas actifs dans la prévisualisation GitHub. Veuillez télécharger le fichier et l’ouvrir dans Excel pour les utiliser pleinement.
 
 
 - <a href="https://github.com/Hasnain-mustufai/excel-Dashbord/blob/main/Capture%20d'%C3%A9cran%202025-10-20%20065342.png">Voir Dashbord</a>
